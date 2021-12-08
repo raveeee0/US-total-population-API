@@ -3,7 +3,7 @@
 
 
 ##    API Endpoints:
-###   /population/      optional query parameters: year1, year2
+###   /population/      -  optional query parameters: year1, year2
 ####  GET -> Retrieve all the avaiable data from the dataset
 ###   /population/:year
 ####  GET -> Retrieve the data for the specified year
